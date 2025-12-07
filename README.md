@@ -7,20 +7,6 @@ The analysis focuses on division gaps, tournament rounds, squad market value dif
 
 ---
 
-## 📂 Repository Structure
-
-dfb-pokal-analysis/
-│
-├── Seminar_Report.pdf
-├── dfb_matches.csv
-├── cleaned_players.csv
-│
-├── team_value_diff1.ipynb
-├── team_value_diff2.ipynb
-├── lower_div_win_rate.ipynb
-└── README.md
-
-
 ## 🔍 Project Overview
 
 The study examines three main question areas:
