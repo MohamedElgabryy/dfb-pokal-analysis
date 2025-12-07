@@ -1,5 +1,25 @@
+# 📌 DFB-Pokal: Does It Have Its Own Rules?
+
+This repository contains my seminar project for the course **Visualization of Sports Data** at TU Dortmund University.
+
+The aim of the project is to explore whether DFB-Pokal upsets can be explained by measurable structural and financial factors, rather than randomness.  
+The analysis focuses on division gaps, tournament rounds, squad market value differences, and trends across seasons.
 
 ---
+
+## 📂 Repository Structure
+
+dfb-pokal-analysis/
+│
+├── Seminar_Report.pdf
+├── dfb_matches.csv
+├── cleaned_players.csv
+│
+├── team_value_diff1.ipynb
+├── team_value_diff2.ipynb
+├── lower_div_win_rate.ipynb
+└── README.md
+
 
 ## 🔍 Project Overview
 
@@ -59,7 +79,5 @@ You can read it here: **`Seminar_Report.pdf`**
 **Mohamed Elgabry**  
 TU Dortmund University  
 Data Science (M.Sc.)
-
----
 
 
